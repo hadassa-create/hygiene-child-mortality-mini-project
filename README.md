@@ -43,5 +43,5 @@ This project explores the relationship between basic hygiene coverage and child 
 
 ## Limitations
 This is an observational analysis. Correlation does not imply causation, and multiple factors (income, healthcare access, nutrition, education) can influence child mortality.
-This is an observational analysis. Correlation does not imply causation, and multiple factors (income, healthcare access, nutrition, education) can influence child mortality.
+
 
